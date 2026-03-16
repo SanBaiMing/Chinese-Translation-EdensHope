@@ -1,14 +1,14 @@
 {
-//该翻译补丁经检查没有任何问题。
+  //该翻译补丁经检查没有任何问题。
   "$schema": "https://raw.githubusercontent.com/outer-wilds-new-horizons/new-horizons/main/NewHorizons/Schemas/translation_schema.json",
   "ShipLogDictionary": {
     "Worldship": "世界舰",
     "WW_TERRARIUM_CURIOSITY": "伊甸之望",
     "WW_TERRARIUM_GOOD_ENDING": "我与霍索恩成功将种子库和微缩技术送至世界舰——伊甸之望号。",
-    "WW_TERRARIUM_WORLDSHIP": "霍索恩家族的挪麦人将一颗行星改造成培育植物的培育舱。为躲避即将爆发的超新星，他们为这颗行星装配了曲速引擎用于星际航行，寻找新的宜居恒星系。部分植物物种本无法撑过这段旅程。生态舱计算机正按「世界舰已抵达目标星系」的预设，搜寻着同一个恒星系。",
+    "WW_TERRARIUM_WORLDSHIP": "霍索恩家族的挪麦人将一颗行星改造成培育植物的培育舱。为躲避即将爆发的超新星，他们为这颗行星装配了曲速引擎用于星际航行，寻找新的宜居恒星系。部分植物物种本无法撑过这段旅程。生态舱计算机正按“世界舰已抵达目标星系”的预设，搜寻着同一个恒星系。",
     "WW_TERRARIUM_GREENHOUSE": "挪麦建筑",
     "WW_TERRARIUM_DISCOVER": "北极处有一座保存完好的挪麦建筑，内部设有若干机关。",
-    "WW_TERRARIUM_START": "矮行星「孤独矮星」上藏有值得探索的事物。",
+    "WW_TERRARIUM_START": "矮行星“孤独矮星”上藏有值得探索的事物。",
     "WW_TERRARIUM_START_RUMORNAME": "关键探索点",
     "WW_TERRARIUM_SEED_BANK": "种子库",
     "WW_TERRARIUM_SEEDS": "建筑二层是恒温恒湿控制的种子库存储区。只要环境条件适宜，这些种子可用于重新培育各类植物物种。",
@@ -140,10 +140,10 @@
     "WW_TERRARIUM_BOTANIST_OUTSIDE_HEARTHIANS_1": "<i>你向他描述了你的族人——哈斯人。你们有四只眼睛、覆鳞的身躯，过着质朴却充实的生活，彼此照料、守望相助。</i>",
     "WW_TERRARIUM_BOTANIST_OUTSIDE_HEARTHIANS_2": "<i>你向他描述了你的故乡——木炉星。喷涌的间歇泉、流淌的河流，还有形形色色的动植物。</i>",
     "WW_TERRARIUM_BOTANIST_OUTSIDE_HEARTHIANS_3": "<i>霍索恩对你村庄周围的参天巨树格外感兴趣。</i>",
-    "WW_TERRARIUM_BOTANIST_OUTSIDE_HEARTHIANS_4": "<i>你说起了朋友们研发的科技，解释了「星际拓荒冒险队」的使命，以及你穿越时空的冒险如何引领你来到此刻此地。</i>",
+    "WW_TERRARIUM_BOTANIST_OUTSIDE_HEARTHIANS_4": "<i>你说起了朋友们研发的科技，解释了“星际拓荒冒险队”的使命，以及你穿越时空的冒险如何引领你来到此刻此地。</i>",
     "WW_TERRARIUM_BOTANIST_OUTSIDE_HEARTHIANS_5": "……",
     "WW_TERRARIUM_BOTANIST_OUTSIDE_HEARTHIANS_6": "作为一个如此年轻的种族，你们在这么短的时间里取得了这么多成就。没想到你们的命运竟与我们挪麦人这般紧密相连！或许是因为我们都怀揣着那份追逐未知的本能好奇心吧。",
-    "WW_TERRARIUM_BOTANIST_OUTSIDE_HEARTHIANS_7": "很高兴认识你，哈斯人。愿你终有一天能找到那个「宇宙之眼」。",
+    "WW_TERRARIUM_BOTANIST_OUTSIDE_HEARTHIANS_7": "很高兴认识你，哈斯人。愿你终有一天能找到那个“宇宙之眼”。",
     "WW_TERRARIUM_BOTANIST_OUTSIDE_ENDING_1": "成了！你做到了，我的朋友，你真的做到了！",
     "WW_TERRARIUM_BOTANIST_OUTSIDE_ENDING_2": "目标坐标已锁定，种子库已标记待传输。你准备好了吗？",
     "WW_TERRARIUM_BOTANIST_OUTSIDE_ENDING_OPTION_1": "只能拼一把了！",
@@ -197,7 +197,7 @@
     "WW_TERRARIUM_DecreaseAtmosphere": "降低大气压强",
     "WW_TERRARIUM_IncreaseEnclosureAngle": "向右旋转电枢",
     "WW_TERRARIUM_DecreaseEnclosureAngle": "向左旋转电枢",
-    "WW_TERRARIUM_EmergencyWarp": "启动紧急曲速",
+    "WW_TERRARIUM_EmergencyWarp": "启动紧急跃迁",
     "WW_TERRARIUM_ENDING_TEXT": "伊甸之望"
   }
 }
